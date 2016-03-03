@@ -1,0 +1,17 @@
+{
+    "name": "ttanai/laramap",
+    "type": "package",
+    "description": "Package for Google Maps Distance API",
+    "keywords": ["google","maps","distance"],
+    "homepage": "https://github.com/ttanai/laramap",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tamas Tanai",
+            "email": "thomas.tanai@gmail.com",
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+}
