@@ -1,0 +1,13 @@
+{
+    "name": "ttanai/laramap",
+    "description": "Laramap",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tamas Tanai",
+            "email": "thomas.tanai@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
