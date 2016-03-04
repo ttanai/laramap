@@ -8,5 +8,6 @@
             "email": "thomas.tanai@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
